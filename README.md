@@ -6,4 +6,4 @@ Lewi, H. (Ed.), Smith, W. (Ed.), vom Lehn, D. (Ed.), Cooke, S. (Ed.). (2019). Th
 
 ### Author accepted versions of chapters
 
-* Chapter 10, Tim Sherratt, 'Hacking Heritage: Understanding the Limits of online Access'
+* Chapter 10, Tim Sherratt, 'Hacking Heritage: Understanding the Limits of Online Access'
