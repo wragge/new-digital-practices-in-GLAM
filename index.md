@@ -1,8 +1,10 @@
 # The Routledge International Handbook of New Digital Practices in Galleries, Libraries, Archives, Museums and Heritage Sites
 
-### Citation
+Edited by Hannah Lewi, Wally Smith, Dirk vom Lehn, Steven Cooke
 
-Lewi, H. (Ed.), Smith, W. (Ed.), vom Lehn, D. (Ed.), Cooke, S. (Ed.). (2019). The Routledge International Handbook of New Digital Practices in Galleries, Libraries, Archives, Museums and Heritage Sites. London: Routledge, <https://doi.org/10.4324/9780429506765>
+Published by Routledge, November 2019
+
+<https://doi.org/10.4324/9780429506765>
 
 [Order from Routledge](https://www.routledge.com/The-Routledge-International-Handbook-of-New-Digital-Practices-in-Galleries/Lewi-Smith-vom-Lehn-Cooke/p/book/9780429506765)
 
