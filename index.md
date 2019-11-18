@@ -9,4 +9,5 @@ DOI: [10.4324/9780429506765](https://doi.org/10.4324/9780429506765)**
 ### Author accepted versions of chapters
 
 * [Chapter 10, Tim Sherratt, 'Hacking Heritage: Understanding the Limits of Online Access'](https://timsherratt.org/blog/hacking-heritage/)
+* [Chapter 35, Mitchell Whitelaw, 'Succession: A Generative Approach to Digital Collections'](http://mtchl.net/assets/Succession-Case-Study-Author-Accepted.pdf)
 * More links will be added as they become available...
