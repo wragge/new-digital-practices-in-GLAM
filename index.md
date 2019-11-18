@@ -16,4 +16,5 @@ DOI: [10.4324/9780429506765](https://doi.org/10.4324/9780429506765)**
 * Chapter 23: [Exhibition design and professional theories: the development of an astronomy exhibition](https://vomlehn.files.wordpress.com/2019/11/vomlehn-et-al_chapter-glam.pdf), Dirk vom Lehn, Kate Sang, Richard Glassborow and Louise King
 * Chapter 35: [Succession: a generative approach to digital collections](http://mtchl.net/assets/Succession-Case-Study-Author-Accepted.pdf), Mitchell Whitelaw
 * Chapter 38: [The experience of using digital walking tours to explore urban histories](https://vomlehn.files.wordpress.com/2019/11/smith-et-al_chapter-glam.pdf), Wally Smith, Dirk vom Lehn, Hannah Lewi, Dora Constantinidis and Katie Best
+* Chapter 41: [Massive digital community archives in Colombia: An international partnership towards peace](https://shiftdesign.org/portfolio/comparte-tu-rollo/#research), Diego Merizalde and Jon Voss
 * More links will be added as they become available...
