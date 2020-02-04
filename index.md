@@ -10,6 +10,7 @@ DOI: [10.4324/9780429506765](https://doi.org/10.4324/9780429506765)**
 
 * Chapter 2: [Interview with Dave Patten](https://vomlehn.files.wordpress.com/2019/11/patten_chapter.pdf), David Patten, Dirk vom Lehn and Wally Smith
 * Chapter 3: [Interview with Rory Hyde](https://vomlehn.files.wordpress.com/2019/11/hyde_chapter.pdf), Rory Hyde, Dirk vom Lehn and Wally Smith
+* Chapter 4: [Interview with Keir Winesmith](https://www.researchgate.net/publication/338393156_Interview_with_Keir_Winesmith_SFMOMA), Keir Winesmith, Hannah Lewi and Wally Smith
 * Chapter 7: [The distributed museum is already here: it’s just not very evenly distributed](https://thinkingaboutmuseums.com/books/in-press-the-distributed-museum-is-already-here-its-just-not-very-evenly-distributed/), Ed Rodley
 * Chapter 8: [Speculative collections and the emancipatory library](http://nowviskie.org/2016/speculative-collections/), Bethany Nowviskie
 * Chapter 10: [Hacking heritage: understanding the limits of online access](https://timsherratt.org/blog/hacking-heritage/), Tim Sherratt
